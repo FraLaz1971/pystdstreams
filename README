@@ -1,0 +1,4 @@
+stdin.py
+usage:
+printf "these \n are different \n words"
+seq 15 | python stdin.py
