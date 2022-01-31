@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
  
 stdin_fileno = sys.stdin

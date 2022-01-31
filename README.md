@@ -14,7 +14,8 @@ usage examples:
 
 	seq 15 | python3 stdin.py
 #
-	francesco@squirrel:~/projects/python/pystdstreams$ ls | python output_redirection.py 
+# output_redirection.py
+	francesco@squirrel:~pystdstreams$ ls | python output_redirection.py 
 	0) this is to the actual  --->LICENSE                                                                             
                                                                                                                   
 	1) this is to the actual  --->myfile.txt                                                                          
